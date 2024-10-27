@@ -1,4 +1,6 @@
-<h1 align="center"><b>Hola, soy Carlos Henadez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
+<h1 align="center"><b>Hola, soy Carlos Hernández </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Estudiante de Dasarrollo de software </h3>
 
 <a target="_blank" align="center">
